@@ -18,4 +18,6 @@ Trying to hook up family with a tracker that LV doesn't support.
 
 ## What's next?
 
-I'll fix up the project to include a frontend to search by product name or sku using React. Also, I'll need to expand this to be able to track all bags and also switch out my IP so I don't get blocked, which happened quite often.
+- Fix up the project to include a frontend to search by product name or sku using React.
+- Need to expand this to be able to track all bags and also switch out my IP so I don't get blocked, which happened quite often.
+- Switch to a different web scraper to handle psuedo elements, as a lot of element data is obscured
